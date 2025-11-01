@@ -15,7 +15,6 @@ Durante la sesión se trabajó en el análisis del caso base GobData, un portal 
 En resumen, el equipo avanzó en la construcción del checklist, organizando la información de manera estructurada y documentando criterios de cumplimiento, nivel y evidencia basada en la normativa identificada. Se sentaron así las bases para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se afinarán las recomendaciones por cada categoría.
 
 - **¿Qué se discutió con el equipo?**
-
 Se debatió cuáles normas y categorías eran más relevantes para el caso base y cómo organizar el análisis para cubrir todos los aspectos críticos del manejo de datos. El equipo coincidió en que el enfoque debía estar en las nueve categorías definidas: finalidad del tratamiento, protección de datos sensibles, seguridad y control normativo, trazabilidad operativa, autenticación, clasificación de datos, consentimiento informado, derechos del titular (ARCO) y retención y supresión. También se acordó cómo registrar la evidencia de cumplimiento, justificar niveles y documentar recomendaciones, dejando el espacio para registrar brechas o hallazgos en fases posteriores. Se definió la división de roles para avanzar de manera simultánea y asegurar cobertura completa de todas las categorías.
 
 - **¿Qué decisiones de modelado se tomaron?**
