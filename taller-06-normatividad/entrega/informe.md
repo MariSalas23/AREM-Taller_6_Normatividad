@@ -15,20 +15,23 @@ Este informe tiene como objetivo verificar los aspectos legales, normativos y de
 
 ## 🔧 Proceso de desarrollo
 
-Inicialmente, se realiza el trabajo en clase, donde se revisa una plantilla de checklist de cumplimiento aplicada al caso GobData, se evalúa el cumplimiento por secciones (consentimiento, seguridad, retención, roles, etc.), justificando con base en el tipo de datos que se procesan y las interacciones en la plataforma, y registrando brechas o hallazgos relevantes. Las herramientas utilizadas para realizar el taller fueron Excel (para las tablas) y AEVA para realizar correcciones y buscar plantillas.
+Inicialmente, se realiza el trabajo en clase, donde se revisa una plantilla de checklist de cumplimiento aplicada al caso GobData, se evalúa el cumplimiento por secciones (consentimiento, seguridad, retención, roles, etc.), justificando con base en el tipo de datos que se procesan y las interacciones en la plataforma, y registrando brechas o hallazgos relevantes. Las herramientas utilizadas para realizar el taller fueron Excel (para las tablas) junto con AEVA para realizar correcciones y buscar plantillas.
 
 Después, para el caso del cliente se define que se necesita de otra reunión con el contacto para tratar el tema de normatividad. El checklist que se aplica es el mismo de GobData, salvo por el último criterio adicional de auditoría, ya que fue un punto clave que resaltó el Gerente de TI de Zajana SAS Con la tabla lista y las recomendaciones diligenciadas, se hizo una tabla con las brechas y hallazgos relevantes encontrados. En resumen, Zajana SAS es una empresa que trabaja con una gran cantidad de datos y sus productos, SaaS, se centran en el análisis de información financiera, por lo que toman diferentes medidas para proteger la información y cumplir con las normas. En general, mantiene un alto cumplimiento normativo y el riesgo principal que se identifica son los cambios que pueda implicar en el tratamiento de datos personales la migración a Snowflake.
 
 ## 🧩 Análisis del modelo propuesto
 
-- **¿Cómo se estructura el modelo entregado?**
-El modelo entregado se estructura a partir de un checklist normativo y una matriz de brechas, diseñados para evaluar el cumplimiento de Zajana SAS frente a las principales leyes y estándares aplicables a la protección de datos personales y la seguridad de la información. El checklist permite identificar el nivel de cumplimiento por categoría, basándose en criterios de la Ley 1266 de 2008, la Ley 1581 de 2012, los Decretos reglamentarios 1377 y 1081, y los controles de la ISO 27001, mientras que la matriz de brechas complementa el análisis al señalar los aspectos que requieren seguimiento o ajustes menores para mantener la alineación con la regulación vigente.
+- **¿Cómo se estructura el modelo entregado?** 
+
+  El modelo entregado se estructura a partir de un checklist normativo y una matriz de brechas, diseñados para evaluar el cumplimiento de Zajana SAS frente a las principales leyes y estándares aplicables a la protección de datos personales y la seguridad de la información. El checklist permite identificar el nivel de cumplimiento por categoría, basándose en criterios de la Ley 1266 de 2008, la Ley 1581 de 2012, los Decretos reglamentarios 1377 y 1081, y los controles de la ISO 27001, mientras que la matriz de brechas complementa el análisis al señalar los aspectos que requieren seguimiento o ajustes menores para mantener la alineación con la regulación vigente.
 
 - **¿Cómo representa las necesidades del cliente?**
-El modelo representa adecuadamente las necesidades del cliente (Zajana SAS), enfocadas en garantizar la seguridad, trazabilidad y cumplimiento normativo durante la migración hacia Snowflake. Al incorporar controles de cumplimiento, clasificación automática, y políticas de retención gestionadas por Purview, se asegura la protección de la información crediticia y financiera procesada, en línea con los estándares de la Superintendencia Financiera de Colombia (SFC) y las leyes 1266 y 1581 de 2012.
+
+  El modelo representa adecuadamente las necesidades del cliente (Zajana SAS), enfocadas en garantizar la seguridad, trazabilidad y cumplimiento normativo durante la migración hacia Snowflake. Al incorporar controles de cumplimiento, clasificación automática, y políticas de retención gestionadas por Purview, se asegura la protección de la información crediticia y financiera procesada, en línea con los estándares de la Superintendencia Financiera de Colombia (SFC) y las leyes 1266 y 1581 de 2012.
 
 - **¿Qué supuestos se tomaron?**
-Se asumió que la infraestructura tecnológica actual (en particular los servicios de Azure) garantiza trazabilidad, seguridad, confiabilidad, disponibilidad, integridad y consistencia del servicio. No obstante, se contemplaron posibles riesgos y brechas, principalmente derivados de la migración a Snowflake.
+
+  Se asumió que la infraestructura tecnológica actual (en particular los servicios de Azure) garantiza trazabilidad, seguridad, confiabilidad, disponibilidad, integridad y consistencia del servicio. No obstante, se contemplaron posibles riesgos y brechas, principalmente derivados de la migración a Snowflake.
 
 ## 📋 Tabla de Checklist
 
