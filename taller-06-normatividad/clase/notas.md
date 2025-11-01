@@ -44,7 +44,7 @@ Durante la sesión se avanzó en la construcción del checklist y en la evaluaci
 
 ## ⚠️ Brechas y hallazgos relevantes identificados
 
-Durante el análisis se identificaron las siguientes brechas principales en el cumplimiento normativo del caso **GobData**, relacionadas con la protección de datos personales y el gobierno de la información en plataformas digitales estatales:
+Durante el análisis se identificaron las siguientes brechas principales en el cumplimiento normativo:
 
 | Nº | Categoría | Brecha / Hallazgo | Impacto Potencial | Recomendación general |
 |----|------------|------------------|-------------------|-----------------------|
